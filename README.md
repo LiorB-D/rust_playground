@@ -1,0 +1,1 @@
+Various small projects I've been writing while learning rust
